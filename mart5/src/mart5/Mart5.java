@@ -16,7 +16,7 @@ public class Mart5 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hi Group member wel come to agile s/w Engineering 22");
+        System.out.println("Hi Group member wel come Agile Group Ambo Universityu Woliso Campus");
     }
     
 }
